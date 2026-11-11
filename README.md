@@ -2,7 +2,7 @@
 
 An end-to-end data engineering project that builds a scalable pipeline for an 
 e-commerce platform using the Medallion Architecture on Databricks with PySpark.
-
+ 
 ---
 ## 📌 Project Overview
 
